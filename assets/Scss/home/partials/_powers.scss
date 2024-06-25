@@ -1,0 +1,42 @@
+/* VARIABLES
+*/
+
+$white: #FFFFFF;
+$skin: #F2F2F2;
+$gray: rgb(195, 195, 195);
+$lightGray: rgb(226, 226, 226);
+$theme: #C32865;
+$darkOrange: rgb(255, 60, 0);
+$theme2: orange;
+$fadeWhite: rgba(255, 255, 255, 0.049);
+$LightWhite: rgba(255, 255, 255, 0.35);
+$themeDark: #242424;
+$Resume_overlay: rgba(0, 0, 0, 0.481);
+$fakeWhite: #F6F5F8;
+$opacityWhite: #efefefd4;
+
+/* FONT-FAIMLY
+*/
+
+.raleway,
+.syne,
+.karla {
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.raleway {
+    // <weight>: Use a value from 100 to 900
+    font-family: "Raleway", sans-serif !important;
+}
+
+.syne {
+    // <weight>: Use a value from 400 to 800
+    font-family: "Syne", sans-serif !important;
+}
+
+.karla {
+    // <weight>: Use a value from 200 to 800
+    font-family: "Karla", sans-serif !important;
+}
